@@ -1,16 +1,19 @@
-# todo
+# Flutter Todo App
 
-A new Flutter project.
+A new Flutter project. 
 
-## Getting Started
+## Description
+A simple task management application built with Flutter and Firebase
 
-This project is a starting point for a Flutter application.
+## Features
+- Add / edit / delete  tasks
+- Firebase Authentication
+- Local notifications
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
+- Flutter
+- Firebase (Auth & Firestore)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+![Home Screen] (screenshots/home.png)
+![Add Task] (screenshots/add_task.png)
